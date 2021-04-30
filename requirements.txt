@@ -5,4 +5,4 @@ python-dateutil==2.7.3
 pytz==2018.4
 selenium==3.141.0
 six==1.11.0
-urllib3==1.25.6
+urllib3==1.25.8
